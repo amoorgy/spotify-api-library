@@ -103,11 +103,3 @@ The library functions are modular, each serving a specific use case. Here’s ho
 ## Contributing
 
 Contributions are welcome! Please create an issue or submit a pull request to discuss potential improvements.
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-This README provides a clear outline of your library’s functions and demonstrates how users can get started and access specific features.
